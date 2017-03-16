@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
 /**
- * Created by kamil on 16.03.2017.
+ * Created by kamil on 16.03.2017..
  */
 public class MassPinger {
 
